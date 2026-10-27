@@ -5,6 +5,6 @@ Clanovi mogu petrazivati knjige i pregledati svoje posudjivanje, a bibliotekar
 evidentira posudjivanje i povrat knjiga.
 
 ## Korisnici sistema 
-- Clanova biblioteke
+- Članovi biblioteke
 - Bibliotekar 
 - Direktor biblioteke
