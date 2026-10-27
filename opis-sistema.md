@@ -12,5 +12,6 @@ evidentira posudjivanje i povrat knjiga.
 ## Osnovni zahtjevi:
 - Član biblioteke može retraživati knjige po autoru i nazivu
 - Član biblioteke može pristupati poslu svojih pozajmica
-- Bibliotekar može evidentirati pozajmice i povrat knjiga 
+- Bibliotekar može evidentirati pozajmice i povrat knjiga
+- Član biblioteke može rezervisati knjigu koja nije trenutno dostupna
 
