@@ -1,0 +1,5 @@
+- Klijent dolazi u biblioteku 
+- Klijent trazi knjigu koju zeli da pozajmi
+- Odlazi na salter i predaje knjigu
+- Radnik biljezi njegovo ime i knjigu koju je pozajmio
+- Klijent izlazi iz biblopteke presrecan
