@@ -14,4 +14,5 @@ evidentira posudjivanje i povrat knjiga.
 - Član biblioteke može pristupati poslu svojih pozajmica
 - Bibliotekar može evidentirati pozajmice i povrat knjiga
 - Član biblioteke može rezervisati knjigu koja nije trenutno dostupna
+- Clan moze produziti pozajmicu na 14 dana.
 
